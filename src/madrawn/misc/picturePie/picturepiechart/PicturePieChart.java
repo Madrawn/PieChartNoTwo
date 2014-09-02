@@ -32,7 +32,7 @@ public class PicturePieChart extends PieChart {
 					};
 					
 				}
-				
+				//TODO Maybe some code to ignore a color someday
 				
 				if (map.containsKey(c)) {
 					map.put(c, map.get(c) + 1);
